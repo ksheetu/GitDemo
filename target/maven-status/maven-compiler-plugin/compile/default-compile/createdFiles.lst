@@ -1,0 +1,4 @@
+com\facebook\qa\pages\LandingPage.class
+com\facebook\qa\util\TestUtil.class
+com\facebook\qa\pages\HomePage.class
+com\facebook\qa\base\TestBase.class
